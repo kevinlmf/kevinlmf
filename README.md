@@ -1,6 +1,6 @@
-# Hi, I'm Mengfan Long
+# About me
 
-Master’s student in Applied Statistics at the University of Michigan.  
+Hi,I am Mengfan Long,a Master’s student in Applied Statistics at the University of Michigan.  
 Pursuing **2026 full-time roles** in:  
 - Quantitative Researcher  
 - Quant Developer  
