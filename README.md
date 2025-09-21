@@ -4,7 +4,7 @@ Hi,I am Mengfan Long,a Master’s student in Applied Statistics at the Universit
 Pursuing **2026 full-time roles** in:  
 - Quantitative Researcher  
 - Quant Developer  
-- Machine Learning / Algorithm Engineer  
+– Algorithm Researcher / Machine Learning Research Engineer
  
 
 ## Links
