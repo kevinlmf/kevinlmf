@@ -9,4 +9,5 @@ Pursuing **2026 full-time roles** in:
 
 ## Links
 - Personal Website: [kevinlmf.github.io](https://kevinlmf.github.io)  
-- LinkedIn: [linkedin.com/in/kevinlmf](https://linkedin.com/in/kevinlmf)  
+- LinkedIn: [linkedin.com/in/mengfanlong](https://www.linkedin.com/in/mengfanlong)
+
