@@ -3,8 +3,8 @@
 Hi,I am Mengfan Long,a Master’s student in Applied Statistics at the University of Michigan.  
 Pursuing **2026 full-time roles** in:  
 - Quantitative Researcher  
-- Quant Developer  
-– Algorithm Researcher / Machine Learning Research Engineer
+- Quant Developer
+- Algorithm Researcher / Machine Learning Research Engineer
  
 
 ## Links
