@@ -15,9 +15,10 @@ Pursuing **2026 full-time roles** in:
 
 My projects are organized into two main tracks:
 
-- **Quantitative Finance Systems (left column):**  
-  End-to-end trading, high-frequency research, and portfolio optimization frameworks.
+- **Quantitative Finance Research (left column):**  
+Spanning macro-level portfolio optimization, micro-level high-frequency trading, and derivatives & risk management.
 
-- **Machine Learning & Applied Methods (right column):**  
-  Applications beyond finance, including sports injury prediction, industry stochastic optimization, and statistical modeling.
+- **Machine Learning & Applied Systems (right column):**  
+End-to-end implementation including quantitative trading system, sports injury prediction, and stochastic optimization with JAX.
+
 
