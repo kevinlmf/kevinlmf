@@ -2,7 +2,6 @@
 
 Hi, I am Mengfan Long, currently a Master's student in Applied Statistics at the University of Michigan.  
 
-
 ## Research Interests
 
 **Quantitative Finance:**  
